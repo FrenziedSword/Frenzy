@@ -1,4 +1,4 @@
 # Frenzy
 My first git repo.
 <br>
-Author - Alpine Lunar(Hello)
+Author - Alpine Lunar(Hello friend..)
